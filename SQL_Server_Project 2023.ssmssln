@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL_Server_Project 2023", "SQL_Server_Project 2023\SQL_Server_Project 2023.ssmssqlproj", "{8F705FBF-945A-448C-8D1E-9F1515B5D165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F705FBF-945A-448C-8D1E-9F1515B5D165}.Default|Default.ActiveCfg = Default
+		{069AC83C-D59A-43B2-85B6-CC575B732923}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F32473-1544-4038-86E7-AF7F573A83E2}
+	EndGlobalSection
+EndGlobal
